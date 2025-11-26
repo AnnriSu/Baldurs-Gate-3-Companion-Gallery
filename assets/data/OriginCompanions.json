@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Astarion",
+        "description": "A cunning rogue vampire spawn with a dark past.",
+        "portrait": "https://bg3.wiki/w/images/1/1b/Portrait_Astarion.png"
+    },
+    {
+        "name": "Gale",
+        "description": "A human wizard with a mysterious condition that threatens his life.",
+        "portrait": "https://bg3.wiki/w/images/1/11/Portrait_Gale.png"
+    },
+    {
+        "name": "Lae'zel",
+        "description": "A fierce githyanki Fighter trained in the arts of combat and survival.",
+        "portrait": "https://bg3.wiki/w/images/8/86/Portrait_Lae%27zel.png"
+    },
+    {
+        "name": "Shadowheart",
+        "description": "A mysterious half-elf cleric devoted to the dark goddess Shar.",
+        "portrait": "https://bg3.wiki/w/images/7/7e/Portrait_Shadowheart.png"
+    },
+    {
+        "name": "Wyll",
+        "description": "A charismatic human warlock who made a pact with a devil.",
+        "portrait": "https://bg3.wiki/w/images/6/6d/Portrait_Wyll.png"
+    },
+    {
+        "name": "Karlach",
+        "description": "A fierce barbarian with a fiery spirit and a tragic past.",
+        "portrait": "https://bg3.wiki/w/images/b/b2/Portrait_Karlach.png"
+    }
+    
+]

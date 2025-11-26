@@ -1,0 +1,53 @@
+[    
+    {
+        "name": "Us",
+        "description": " An Intellect Devourer that is trapped inside the head of an Elf named  Myrnath.",
+        "portrait": "https://bg3.wiki/w/images/thumb/2/2f/Us.png/600px-Us.png"
+    },
+    {
+        "name": "Scratch",
+        "description": "A Dog that was once a companion another now seeking a new master",
+        "portrait": "assets/img/Scratch.png"
+    },
+     {
+        "name": "Glut",
+        "description": "A Myconid that is the sole survivor of a Duergar attack against its circle.",
+        "portrait": "assets/img/Glut.png"
+    },
+     {
+        "name": "Sazza",
+        "description": "A goblin follower of the Absolute encountered in the Makeshift Prison in Emerald Grove.",
+        "portrait": "assets/img/Sazza.jpg"
+    },
+     {
+        "name": "Boo",
+        "description": "A miniature giant space hamster familiar and companion of Minsc.",
+        "portrait": "assets/img/Boo.png"
+    },
+     {
+        "name": "Hope",
+        "description": "A dwarven Cleric and captive of the House of Hope ",
+        "portrait": "assets/img/Hope.png"
+    },
+     {
+        "name": "Omeluum",
+        "description": "a friendly Mind Flayer and trader in the Underdark.",
+        "portrait": "assets/img/Omeluum.png"
+    },
+     {
+        "name": "Ulder Ravengard",
+        "description": "The human Supreme Marshall of the Flaming Fist and the father of Wyll.",
+        "portrait": "assets/img/Ulder.png"
+    },
+     {
+        "name": "Councilor Florrick",
+        "description": "An elven  wizard  and advisor to the Grand Duke Ravengard",
+        "portrait": "https://bg3.wiki/w/images/thumb/4/41/Counsellor_Florrick.png/600px-Counsellor_Florrick.png"
+    },
+     {
+        "name": "Zanner Toobin",
+        "description": "A Rock Gnome found in the Steel Watch Foundry in Act Three.",
+        "portrait": "assets/img/Zanner.png"
+    }
+    
+]

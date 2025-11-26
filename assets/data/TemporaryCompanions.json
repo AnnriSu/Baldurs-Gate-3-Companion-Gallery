@@ -1,0 +1,13 @@
+[    
+    {
+        "name": "Alfira",
+        "description": "A resourceful tiefling bard with a knack for storytelling.",
+        "portrait": "assets/img/Alfira.jpg"
+    },
+    {
+        "name": "Losiir",
+        "description": "A githyanki fighter who replaces Lae'zel's role in the Prologue while playing as her origin",
+        "portrait": "assets/img/Losiir.png"
+    }
+    
+]

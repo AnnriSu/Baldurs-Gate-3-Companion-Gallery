@@ -1,0 +1,43 @@
+[    
+    {
+        "name": "Armoured Owlbear",
+        "description": " A Beast and a potential Camp Follower encountered in the Owlbear Nest ",
+        "portrait": "https://bg3.wiki/w/images/thumb/1/13/Owlbear_Cub.webp/600px-Owlbear_Cub.webp.png"
+    },
+    {
+        "name": "Aylin",
+        "description": "An Aasimar and daughter of Selûne who appears in Act 2",
+        "portrait": "assets/img/Aylin.jpg"
+    },
+    {
+        "name": "Mizora",
+        "description": "A cambion in service of the Archdevil Zariel",
+        "portrait": "assets/img/Mizora.jpg"
+    },
+    {
+        "name": "Orpheus",
+        "description": "The son of Gith himself and supposed true ruler of the Gith Empire",
+        "portrait": "assets/img/Orpheus.png"
+    },
+    {
+        "name": "Steel Watcher",
+        "description": "Created by Gortash to serve him they uphold the law in the city of Baldur's Gate",
+        "portrait": "assets/img/Steel.jpg"
+    },
+    {
+        "name": "Strange Ox",
+        "description": "A mysterious ox first encountered in the Emerald Grove",
+        "portrait": "https://bg3.wiki/w/images/thumb/f/f3/Strange_Ox.png/600px-Strange_Ox.png"
+    },
+    {
+        "name": " The Emperor",
+        "description": "a Mind Flayer that plays a key role in the main storyline",
+        "portrait": "assets/img/Emperor.png"
+    },
+    {
+        "name": "Yurgir",
+        "description": "An Orthon, a powerful type of Fiend from the Nine Hells",
+        "portrait": "assets/img/Yurgir.png"
+    }
+    
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Halsin",
+        "description": "A wise druid dedicated to protecting nature.",
+        "portrait": "https://i.redd.it/w5p62njgwwwb1.jpg"
+    },
+    {
+        "name": "Jahiera",
+        "description": "A half-elf druid and former member of the Harpers.",
+        "portrait": "https://bg3.wiki/w/images/thumb/a/a8/Portrait_Jaheira.png/600px-Portrait_Jaheira.png"
+    },
+    {
+        "name": "Minsc",
+        "description": "A lovable and somewhat eccentric ranger known for his bravery.",
+        "portrait": "https://bg3.wiki/w/images/thumb/d/d6/Portrait_Minsc.png/600px-Portrait_Minsc.png"
+    },
+    {
+        "name": "Minthara",
+        "description": "A drow cleric of Lolth, known for her cunning and ruthless nature.",
+        "portrait": "https://bg3.wiki/w/images/thumb/3/33/Edward-vanderghote-minthara.jpg/563px-Edward-vanderghote-minthara.jpg"
+    }
+]
